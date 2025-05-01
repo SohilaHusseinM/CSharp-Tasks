@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\DAY4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B46970B-2A5A-4D70-B844-51FA69DEAC5C}|DTypes\\DTypes.csproj|c:\\users\\lenovo\\source\\repos\\day4\\dtypes\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B46970B-2A5A-4D70-B844-51FA69DEAC5C}|DTypes\\DTypes.csproj|solutionrelative:dtypes\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16921070-9F0C-4C8F-84E5-194036043015}|DAY4\\DAY4.csproj|c:\\users\\lenovo\\source\\repos\\day4\\day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16921070-9F0C-4C8F-84E5-194036043015}|DAY4\\DAY4.csproj|solutionrelative:day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B46970B-2A5A-4D70-B844-51FA69DEAC5C}|DTypes\\DTypes.csproj|c:\\users\\lenovo\\source\\repos\\day4\\dtypes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B46970B-2A5A-4D70-B844-51FA69DEAC5C}|DTypes\\DTypes.csproj|solutionrelative:dtypes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16921070-9F0C-4C8F-84E5-194036043015}|DAY4\\DAY4.csproj|c:\\users\\lenovo\\source\\repos\\day4\\day4\\employeesearch .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16921070-9F0C-4C8F-84E5-194036043015}|DAY4\\DAY4.csproj|solutionrelative:day4\\employeesearch .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Date.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\DAY4\\DTypes\\Date.cs",
+              "RelativeDocumentMoniker": "DTypes\\Date.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\DAY4\\DTypes\\Date.cs",
+              "RelativeToolTip": "DTypes\\Date.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:40:29.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\DAY4\\DTypes\\Employee.cs",
+              "RelativeDocumentMoniker": "DTypes\\Employee.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\DAY4\\DTypes\\Employee.cs",
+              "RelativeToolTip": "DTypes\\Employee.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAA0wJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:11:54.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeSearch .cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\DAY4\\DAY4\\EmployeeSearch .cs",
+              "RelativeDocumentMoniker": "DAY4\\EmployeeSearch .cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\DAY4\\DAY4\\EmployeeSearch .cs",
+              "RelativeToolTip": "DAY4\\EmployeeSearch .cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAcwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T01:40:24.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\DAY4\\DAY4\\Program.cs",
+              "RelativeDocumentMoniker": "DAY4\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\DAY4\\DAY4\\Program.cs*",
+              "RelativeToolTip": "DAY4\\Program.cs*",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:02:39.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

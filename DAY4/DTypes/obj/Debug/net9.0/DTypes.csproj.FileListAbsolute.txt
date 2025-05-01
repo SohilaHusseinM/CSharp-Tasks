@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\DAY4\DTypes\obj\Debug\net9.0\DTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DAY4\DTypes\obj\Debug\net9.0\DTypes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DAY4\DTypes\obj\Debug\net9.0\DTypes.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DAY4\DTypes\obj\Debug\net9.0\DTypes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DAY4\DTypes\bin\Debug\net9.0\DTypes.deps.json
+C:\Users\Lenovo\source\repos\DAY4\DTypes\bin\Debug\net9.0\DTypes.dll
+C:\Users\Lenovo\source\repos\DAY4\DTypes\bin\Debug\net9.0\DTypes.pdb
+C:\Users\Lenovo\source\repos\DAY4\DTypes\obj\Debug\net9.0\DTypes.dll
+C:\Users\Lenovo\source\repos\DAY4\DTypes\obj\Debug\net9.0\refint\DTypes.dll
+C:\Users\Lenovo\source\repos\DAY4\DTypes\obj\Debug\net9.0\DTypes.pdb
+C:\Users\Lenovo\source\repos\DAY4\DTypes\obj\Debug\net9.0\ref\DTypes.dll

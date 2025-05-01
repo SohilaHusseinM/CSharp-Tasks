@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Day5\3D point\bin\Debug\net9.0\3D point.deps.json
+C:\Users\Lenovo\source\repos\Day5\3D point\bin\Debug\net9.0\3D point.dll
+C:\Users\Lenovo\source\repos\Day5\3D point\bin\Debug\net9.0\3D point.pdb
+C:\Users\Lenovo\source\repos\Day5\3D point\obj\Debug\net9.0\3D point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Day5\3D point\obj\Debug\net9.0\3D point.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Day5\3D point\obj\Debug\net9.0\3D point.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Day5\3D point\obj\Debug\net9.0\3D point.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Day5\3D point\obj\Debug\net9.0\3D point.dll
+C:\Users\Lenovo\source\repos\Day5\3D point\obj\Debug\net9.0\refint\3D point.dll
+C:\Users\Lenovo\source\repos\Day5\3D point\obj\Debug\net9.0\3D point.pdb
+C:\Users\Lenovo\source\repos\Day5\3D point\obj\Debug\net9.0\ref\3D point.dll

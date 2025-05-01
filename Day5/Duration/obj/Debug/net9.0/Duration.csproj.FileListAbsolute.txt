@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Day5\Duration\bin\Debug\net9.0\Duration.exe
+C:\Users\Lenovo\source\repos\Day5\Duration\bin\Debug\net9.0\Duration.deps.json
+C:\Users\Lenovo\source\repos\Day5\Duration\bin\Debug\net9.0\Duration.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Day5\Duration\bin\Debug\net9.0\Duration.dll
+C:\Users\Lenovo\source\repos\Day5\Duration\bin\Debug\net9.0\Duration.pdb
+C:\Users\Lenovo\source\repos\Day5\Duration\obj\Debug\net9.0\Duration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Day5\Duration\obj\Debug\net9.0\Duration.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Day5\Duration\obj\Debug\net9.0\Duration.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Day5\Duration\obj\Debug\net9.0\Duration.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Day5\Duration\obj\Debug\net9.0\Duration.dll
+C:\Users\Lenovo\source\repos\Day5\Duration\obj\Debug\net9.0\refint\Duration.dll
+C:\Users\Lenovo\source\repos\Day5\Duration\obj\Debug\net9.0\Duration.pdb
+C:\Users\Lenovo\source\repos\Day5\Duration\obj\Debug\net9.0\Duration.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Day5\Duration\obj\Debug\net9.0\ref\Duration.dll

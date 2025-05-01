@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\DAY1\DAY1\bin\Debug\net9.0\DAY1_1.exe
+C:\Users\Lenovo\source\repos\DAY1\DAY1\bin\Debug\net9.0\DAY1_1.deps.json
+C:\Users\Lenovo\source\repos\DAY1\DAY1\bin\Debug\net9.0\DAY1_1.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DAY1\DAY1\bin\Debug\net9.0\DAY1_1.dll
+C:\Users\Lenovo\source\repos\DAY1\DAY1\bin\Debug\net9.0\DAY1_1.pdb
+C:\Users\Lenovo\source\repos\DAY1\DAY1\obj\Debug\net9.0\DAY1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DAY1\DAY1\obj\Debug\net9.0\DAY1_1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DAY1\DAY1\obj\Debug\net9.0\DAY1_1.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DAY1\DAY1\obj\Debug\net9.0\DAY1_1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DAY1\DAY1\obj\Debug\net9.0\DAY1_1.dll
+C:\Users\Lenovo\source\repos\DAY1\DAY1\obj\Debug\net9.0\refint\DAY1_1.dll
+C:\Users\Lenovo\source\repos\DAY1\DAY1\obj\Debug\net9.0\DAY1_1.pdb
+C:\Users\Lenovo\source\repos\DAY1\DAY1\obj\Debug\net9.0\DAY1_1.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DAY1\DAY1\obj\Debug\net9.0\ref\DAY1_1.dll

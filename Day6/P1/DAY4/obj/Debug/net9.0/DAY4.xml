@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DAY4</name>
+    </assembly>
+    <members>
+        <member name="M:DAY4.EmployeeSearch.#ctor(DTypes.Employee[])">
+            <summary>
+            Initializes a new instance of the <see cref="T:DAY4.EmployeeSearch"/> class with the specified employees array.
+            </summary>
+            <param name="employees">An array of Employee objects to initialize the EmployeeSearch instance.</param>
+            <exception cref="T:System.ArgumentNullException">Thrown if the employees array is null.</exception>
+        </member>
+        <member name="P:DAY4.EmployeeSearch.Item(System.Int32)">
+            <summary>
+            Gets or sets the value at the specified id in the Employees array.
+            </summary>
+            <param name="id">The ID of the specific employee.</param>
+            <returns>The data of the employee if it exists.</returns>
+            <exception cref="T:System.Exception">Thrown when the specified ID does not exist.</exception>
+        </member>
+        <member name="P:DAY4.EmployeeSearch.Item(DTypes.HDate)">
+            <summary>
+            Gets or sets the value at the specified hiring date of the employee the Employees array.
+            </summary>
+            <param name="date">The hiring date of the specific employee.</param>
+            <returns>The data of the employee if it exists.</returns>
+            <exception cref="T:System.Exception">Thrown when the specified hiring date does not exist.</exception>
+        </member>
+        <member name="P:DAY4.EmployeeSearch.Item(System.String)">
+            <summary>
+            Gets or sets the value at the specified name in the Employees array.
+            </summary>
+            <param name="name">The name of the specific employee.</param>
+            <returns>The data of the employee if it exists.</returns>
+            <exception cref="T:System.Exception">Thrown when the specified name does not exist.</exception>
+        </member>
+    </members>
+</doc>

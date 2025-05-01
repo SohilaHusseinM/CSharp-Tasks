@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Day5\Math_Class\bin\Debug\net9.0\Math_Class.deps.json
+C:\Users\Lenovo\source\repos\Day5\Math_Class\bin\Debug\net9.0\Math_Class.dll
+C:\Users\Lenovo\source\repos\Day5\Math_Class\bin\Debug\net9.0\Math_Class.pdb
+C:\Users\Lenovo\source\repos\Day5\Math_Class\obj\Debug\net9.0\Math_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Day5\Math_Class\obj\Debug\net9.0\Math_Class.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Day5\Math_Class\obj\Debug\net9.0\Math_Class.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Day5\Math_Class\obj\Debug\net9.0\Math_Class.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Day5\Math_Class\obj\Debug\net9.0\Math_Class.dll
+C:\Users\Lenovo\source\repos\Day5\Math_Class\obj\Debug\net9.0\refint\Math_Class.dll
+C:\Users\Lenovo\source\repos\Day5\Math_Class\obj\Debug\net9.0\Math_Class.pdb
+C:\Users\Lenovo\source\repos\Day5\Math_Class\obj\Debug\net9.0\ref\Math_Class.dll

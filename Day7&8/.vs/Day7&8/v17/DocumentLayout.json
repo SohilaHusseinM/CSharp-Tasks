@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Day7\u00268\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A171445-925A-482A-9BC9-853CF4AB85D0}|Day7\u00268\\Day7\u00268.csproj|c:\\users\\lenovo\\source\\repos\\day7\u00268\\day7\u00268\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A171445-925A-482A-9BC9-853CF4AB85D0}|Day7\u00268\\Day7\u00268.csproj|solutionrelative:day7\u00268\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A171445-925A-482A-9BC9-853CF4AB85D0}|Day7\u00268\\Day7\u00268.csproj|c:\\users\\lenovo\\source\\repos\\day7\u00268\\day7\u00268\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A171445-925A-482A-9BC9-853CF4AB85D0}|Day7\u00268\\Day7\u00268.csproj|solutionrelative:day7\u00268\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A171445-925A-482A-9BC9-853CF4AB85D0}|Day7\u00268\\Day7\u00268.csproj|c:\\users\\lenovo\\source\\repos\\day7\u00268\\day7\u00268\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A171445-925A-482A-9BC9-853CF4AB85D0}|Day7\u00268\\Day7\u00268.csproj|solutionrelative:day7\u00268\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A171445-925A-482A-9BC9-853CF4AB85D0}|Day7\u00268\\Day7\u00268.csproj|c:\\users\\lenovo\\source\\repos\\day7\u00268\\day7\u00268\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A171445-925A-482A-9BC9-853CF4AB85D0}|Day7\u00268\\Day7\u00268.csproj|solutionrelative:day7\u00268\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A171445-925A-482A-9BC9-853CF4AB85D0}|Day7\u00268\\Day7\u00268.csproj|c:\\users\\lenovo\\source\\repos\\day7\u00268\\day7\u00268\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A171445-925A-482A-9BC9-853CF4AB85D0}|Day7\u00268\\Day7\u00268.csproj|solutionrelative:day7\u00268\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day7\u00268\\Day7\u00268\\Exam.cs",
+              "RelativeDocumentMoniker": "Day7\u00268\\Exam.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day7\u00268\\Day7\u00268\\Exam.cs",
+              "RelativeToolTip": "Day7\u00268\\Exam.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwE4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:17:07.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day7\u00268\\Day7\u00268\\Subject.cs",
+              "RelativeDocumentMoniker": "Day7\u00268\\Subject.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day7\u00268\\Day7\u00268\\Subject.cs",
+              "RelativeToolTip": "Day7\u00268\\Subject.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:16:38.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day7\u00268\\Day7\u00268\\Answer.cs",
+              "RelativeDocumentMoniker": "Day7\u00268\\Answer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day7\u00268\\Day7\u00268\\Answer.cs",
+              "RelativeToolTip": "Day7\u00268\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:16:04.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day7\u00268\\Day7\u00268\\Question.cs",
+              "RelativeDocumentMoniker": "Day7\u00268\\Question.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day7\u00268\\Day7\u00268\\Question.cs",
+              "RelativeToolTip": "Day7\u00268\\Question.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAqwGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:14:35.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day7\u00268\\Day7\u00268\\Program.cs",
+              "RelativeDocumentMoniker": "Day7\u00268\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day7\u00268\\Day7\u00268\\Program.cs",
+              "RelativeToolTip": "Day7\u00268\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:13:48.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 348,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 110,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

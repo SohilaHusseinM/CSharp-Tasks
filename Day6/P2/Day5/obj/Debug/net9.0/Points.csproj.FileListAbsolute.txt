@@ -1,0 +1,36 @@
+C:\Users\Lenovo\source\repos\Day5\Day5\bin\Debug\net9.0\Points.exe
+C:\Users\Lenovo\source\repos\Day5\Day5\bin\Debug\net9.0\Points.deps.json
+C:\Users\Lenovo\source\repos\Day5\Day5\bin\Debug\net9.0\Points.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Day5\Day5\bin\Debug\net9.0\Points.dll
+C:\Users\Lenovo\source\repos\Day5\Day5\bin\Debug\net9.0\Points.pdb
+C:\Users\Lenovo\source\repos\Day5\Day5\bin\Debug\net9.0\3D point.dll
+C:\Users\Lenovo\source\repos\Day5\Day5\bin\Debug\net9.0\3D point.pdb
+C:\Users\Lenovo\source\repos\Day5\Day5\obj\Debug\net9.0\Points.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Day5\Day5\obj\Debug\net9.0\Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Day5\Day5\obj\Debug\net9.0\Points.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Day5\Day5\obj\Debug\net9.0\Points.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Day5\Day5\obj\Debug\net9.0\Points.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Day5\Day5\obj\Debug\net9.0\Points.csproj.Up2Date
+C:\Users\Lenovo\source\repos\Day5\Day5\obj\Debug\net9.0\Points.dll
+C:\Users\Lenovo\source\repos\Day5\Day5\obj\Debug\net9.0\refint\Points.dll
+C:\Users\Lenovo\source\repos\Day5\Day5\obj\Debug\net9.0\Points.pdb
+C:\Users\Lenovo\source\repos\Day5\Day5\obj\Debug\net9.0\Points.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Day5\Day5\obj\Debug\net9.0\ref\Points.dll
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\bin\Debug\net9.0\Points.exe
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\bin\Debug\net9.0\Points.deps.json
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\bin\Debug\net9.0\Points.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\bin\Debug\net9.0\Points.dll
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\bin\Debug\net9.0\Points.pdb
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\bin\Debug\net9.0\3D point.dll
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\bin\Debug\net9.0\3D point.pdb
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\obj\Debug\net9.0\Points.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\obj\Debug\net9.0\Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\obj\Debug\net9.0\Points.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\obj\Debug\net9.0\Points.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\obj\Debug\net9.0\Points.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\obj\Debug\net9.0\Points.csproj.Up2Date
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\obj\Debug\net9.0\Points.dll
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\obj\Debug\net9.0\refint\Points.dll
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\obj\Debug\net9.0\Points.pdb
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\obj\Debug\net9.0\Points.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Day6\P2\Day5\obj\Debug\net9.0\ref\Points.dll

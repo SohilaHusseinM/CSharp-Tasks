@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Day09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5508FC-C713-4F5E-AAD4-7B1623B83351}|Day09\\Day09.csproj|c:\\users\\lenovo\\source\\repos\\day09\\day09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5508FC-C713-4F5E-AAD4-7B1623B83351}|Day09\\Day09.csproj|solutionrelative:day09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5508FC-C713-4F5E-AAD4-7B1623B83351}|Day09\\Day09.csproj|c:\\users\\lenovo\\source\\repos\\day09\\day09\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5508FC-C713-4F5E-AAD4-7B1623B83351}|Day09\\Day09.csproj|solutionrelative:day09\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5508FC-C713-4F5E-AAD4-7B1623B83351}|Day09\\Day09.csproj|c:\\users\\lenovo\\source\\repos\\day09\\day09\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5508FC-C713-4F5E-AAD4-7B1623B83351}|Day09\\Day09.csproj|solutionrelative:day09\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5508FC-C713-4F5E-AAD4-7B1623B83351}|Day09\\Day09.csproj|c:\\users\\lenovo\\source\\repos\\day09\\day09\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5508FC-C713-4F5E-AAD4-7B1623B83351}|Day09\\Day09.csproj|solutionrelative:day09\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day09\\Day09\\LibraryEngine.cs",
+              "RelativeDocumentMoniker": "Day09\\LibraryEngine.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day09\\Day09\\LibraryEngine.cs",
+              "RelativeToolTip": "Day09\\LibraryEngine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:47:32.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day09\\Day09\\BookFunctions.cs",
+              "RelativeDocumentMoniker": "Day09\\BookFunctions.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day09\\Day09\\BookFunctions.cs",
+              "RelativeToolTip": "Day09\\BookFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:40:03.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day09\\Day09\\Book.cs",
+              "RelativeDocumentMoniker": "Day09\\Book.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day09\\Day09\\Book.cs",
+              "RelativeToolTip": "Day09\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:29:51.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day09\\Day09\\Program.cs",
+              "RelativeDocumentMoniker": "Day09\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day09\\Day09\\Program.cs",
+              "RelativeToolTip": "Day09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:53:42.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

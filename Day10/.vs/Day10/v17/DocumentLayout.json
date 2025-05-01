@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Day10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D99E4202-CB20-40EA-99BB-DD87585F1CC2}|Day10\\Day10.csproj|c:\\users\\lenovo\\source\\repos\\day10\\day10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99E4202-CB20-40EA-99BB-DD87585F1CC2}|Day10\\Day10.csproj|solutionrelative:day10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99E4202-CB20-40EA-99BB-DD87585F1CC2}|Day10\\Day10.csproj|c:\\users\\lenovo\\source\\repos\\day10\\day10\\sales employee \u0026 board member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99E4202-CB20-40EA-99BB-DD87585F1CC2}|Day10\\Day10.csproj|solutionrelative:day10\\sales employee \u0026 board member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99E4202-CB20-40EA-99BB-DD87585F1CC2}|Day10\\Day10.csproj|c:\\users\\lenovo\\source\\repos\\day10\\day10\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99E4202-CB20-40EA-99BB-DD87585F1CC2}|Day10\\Day10.csproj|solutionrelative:day10\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99E4202-CB20-40EA-99BB-DD87585F1CC2}|Day10\\Day10.csproj|c:\\users\\lenovo\\source\\repos\\day10\\day10\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99E4202-CB20-40EA-99BB-DD87585F1CC2}|Day10\\Day10.csproj|solutionrelative:day10\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99E4202-CB20-40EA-99BB-DD87585F1CC2}|Day10\\Day10.csproj|c:\\users\\lenovo\\source\\repos\\day10\\day10\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99E4202-CB20-40EA-99BB-DD87585F1CC2}|Day10\\Day10.csproj|solutionrelative:day10\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales Employee \u0026 Board Member.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day10\\Day10\\Sales Employee \u0026 Board Member.cs",
+              "RelativeDocumentMoniker": "Day10\\Sales Employee \u0026 Board Member.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day10\\Day10\\Sales Employee \u0026 Board Member.cs",
+              "RelativeToolTip": "Day10\\Sales Employee \u0026 Board Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:31:31.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Club.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day10\\Day10\\Club.cs",
+              "RelativeDocumentMoniker": "Day10\\Club.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day10\\Day10\\Club.cs",
+              "RelativeToolTip": "Day10\\Club.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:31:08.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day10\\Day10\\Department.cs",
+              "RelativeDocumentMoniker": "Day10\\Department.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day10\\Day10\\Department.cs",
+              "RelativeToolTip": "Day10\\Department.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:30:44.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day10\\Day10\\Employee.cs",
+              "RelativeDocumentMoniker": "Day10\\Employee.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day10\\Day10\\Employee.cs",
+              "RelativeToolTip": "Day10\\Employee.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:30:27.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Day10\\Day10\\Program.cs",
+              "RelativeDocumentMoniker": "Day10\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Day10\\Day10\\Program.cs",
+              "RelativeToolTip": "Day10\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:30:03.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 348,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 110,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
